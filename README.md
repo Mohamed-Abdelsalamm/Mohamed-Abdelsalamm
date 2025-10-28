@@ -16,9 +16,9 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,postman" />
 </div>
 
 ---
